@@ -8,7 +8,7 @@ setuptools.setup(
   author='DongukPark',
   author_email='parkdw00@naver.com',
   url = "https://github.com/DongUk-Park/Caculator/",
-  download_url = "",
+  download_url = "https://github.com/DongUk-Park/Caculator/archive/refs/tags/calculator.zip",
   install_requires=['pytest'],
   long_description = 'oss-dev calculator python module',
   long_description_content_type = 'text/markdown',
